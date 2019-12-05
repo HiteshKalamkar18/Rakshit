@@ -1,4 +1,4 @@
-public class Rakshit
+class Rakshit
 {
 	public static void main(String[] args)
 	{
