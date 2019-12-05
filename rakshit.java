@@ -1,8 +1,7 @@
-class Rakshit
-{
+class A
+{rakshit.java
 	public static void main(String[] args)
 	{
-		System.out.println("Hello world from Rakshit");
-		System.out.println("Hello world Rakshit2");
+		System.out.println("Hello from Rakshit");
 	}
 }
